@@ -1,0 +1,6 @@
+{
+  "name": "Neon Football Simulator",
+  "description": "Futuristic arcade neon football simulator with customizable team crests, luminous trail colors, multi-theme cyber arenas, and live interactive match simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
